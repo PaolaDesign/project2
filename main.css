@@ -1,21 +1,15 @@
 h1 {
-  font-size: 50px;
-  text-align: center;
+    background-color: yellowgreen;
+    display: inline;
 }
-h2 {
-  font-size: 30px;
+a {
+    display: block;
 }
-p {
-  font-size: 20;
+.text {
+    background-color: bisque;
+    text-align: center;
 }
-body {
-  background-color: beige;
-}
-
-#subheading {
-  color: blueviolet;
-}
-
-.third-text-block {
-  background-color: aqua;
+.links {
+    background-color: lightblue;
+    text-align: end;
 }
